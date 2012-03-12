@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'json_demo1' target in the 'json_demo1' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
